@@ -11,6 +11,6 @@ Domain Controllers manage authentication and central network access in enterpris
 
 ## Outcome
 Server successfully configured as a Domain Controller.
-
 ## Evidence
-Screenshots included in /screenshots/LAB 2
+
+![Screenshot](../screenshots/LAB3/example.png)
