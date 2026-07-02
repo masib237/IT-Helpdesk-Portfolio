@@ -1,19 +1,49 @@
 # LAB Objective
-To simulate real IT helpdesk troubleshooting scenarios.
+To simulate real IT helpdesk troubleshooting scenarios across common enterprise IT environments including Active Directory, user devices, network access, applications, and system configuration issues.
 
-## Example Tickets 
+---
 
-### Ticket 001 - Password Reset
-User unable to log in due to forgotten password. Reset performed successfully.
+## Example Tickets
 
-### Ticket 002 - Account Lockout
-User account locked after failed login attempts. Account unlocked.
+### Ticket 001 - Password Reset (Active Directory)
+User was unable to log in after forgetting their password. Verified account status in Active Directory Users and Computers (ADUC). Password was reset and the option “User must change password at next logon” was enabled. User successfully regained access after updating credentials.
 
-### Ticket 003 - Access Denied
-User denied access to shared folder. Issue resolved via group assignment.
+---
+
+### Ticket 002 - Account Lockout (AD Authentication Issue)
+User account became locked after multiple failed login attempts. Checked account status in Active Directory, confirmed lockout threshold was reached. Account was unlocked and login attempt history reviewed. User was advised on correct credential usage.
+
+![unlocked account]()
+
+### Ticket 003 - Access Denied to Shared Folder (Permissions Issue)
+User reported inability to access departmental shared folder. Verified NTFS and share permissions on the file server. User was not part of the required security group. Added user to appropriate group and applied updated permissions. Access restored after group policy refresh.
+
+---
+
+### Ticket 004 - Network Connectivity Issue
+User unable to access internal network resources. Diagnosed issue using basic connectivity tests (ipconfig, ping). Identified incorrect DNS configuration on client machine. Corrected DNS settings to point to domain controller. Network access restored.
+
+---
+
+### Ticket 005 - Application Not Launching
+User reported that a company-installed application would not open. Checked Task Manager for background processes and attempted restart. Verified missing dependency causing application failure. Reinstalled application and confirmed successful launch.
+
+---
+
+### Ticket 006 - Printer Not Responding
+User unable to print documents to network printer. Checked print queue and restarted Print Spooler service on client machine. Removed and re-added network printer. Test print completed successfully.
+
+---
+
+### Ticket 007 - Slow Computer Performance
+User reported slow system performance. Checked startup programs, disk usage, and running processes. Disabled unnecessary startup applications and cleared temporary files. Performance improved after optimization.
+
+---
 
 ## Outcome
-Simulated real-world IT support scenarios successfully resolved.
+Successfully simulated real-world Tier 1 IT support scenarios involving user authentication, access control, network troubleshooting, application issues, and system performance optimization.
+
+---
 
 ## Evidence
-Screenshots included in /screenshots/LAB 8
+Screenshots and supporting documentation included in `/screenshots/LAB 8`.
