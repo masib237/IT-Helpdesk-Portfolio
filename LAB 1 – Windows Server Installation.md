@@ -15,4 +15,4 @@ Windows Server successfully installed and operational.
 ## Evidence
 Screenshot
 
-![Screenshot](C:\Users\xxx\Desktop\IT-HELPDESK-LABS\Installation&Setup\Server setup.png)
+![Screenshot](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/Installation&Setup/Server%20setup.png?raw=true)
