@@ -17,4 +17,7 @@ Policies successfully applied to domain users.
 ![printergpo](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/GroupPolicyObjects/PrinterRestriction-GPO.png?raw=true)
 
 ## Policy enabled
-![enabled]()
+![enabled](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/GroupPolicyObjects/VirtualBox_Windows%20Server%202022-DC01_02_07_2026_14_22_58.png?raw=true)
+
+## GPO linked to Organizational Unit
+![linked]()
