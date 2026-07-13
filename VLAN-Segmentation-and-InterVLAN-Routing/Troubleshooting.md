@@ -34,4 +34,5 @@ After applying the changes:
 - PCs successfully received valid IP addresses
 - Default gateways were assigned correctly
 - Devices in different VLANs were able to communicate
-  ![apipa](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/VLAN-Segmentation-and-InterVLAN-Routing/Screenshots/APIPA%20ip%20issue.png?raw=true)
+  ![apipa](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/VLAN-Segmentation-and-InterVLAN-Routing/Screenshots/apipa%20issue%20solved.png?raw=true)
+  
