@@ -35,7 +35,7 @@ The network consists of:
 - 1 Layer 2 Switch
 - 1 DHCP Server
 - Multiple client PCs
-  ![Network Topology]()
+  ![Network Topology](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/VLAN-Segmentation-and-InterVLAN-Routing/Screenshots/Topology.png?raw=true)
 
 The switch was configured with multiple VLANs representing different departments:
 
